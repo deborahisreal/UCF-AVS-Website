@@ -79,7 +79,7 @@ input:focus, select:focus, button:focus, textarea:focus {
 a:hover, a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #fff;
+	color: #5aaaff;
 }
 ul, ol {
 	padding: 0;
@@ -728,8 +728,8 @@ ul, ol {
 	margin-right: 10px;
 }
 .feature-carousel .feature-item .fi-pic .feature-author .fa-pic img {
-	height: 36px;
-	width: 36px;
+	height: 60px;
+	width: 60px;
 	border-radius: 50%;
 	border: 1px solid #ffffff;
 }
@@ -738,7 +738,7 @@ ul, ol {
 	display: inline-block;
 }
 .feature-carousel .feature-item .fi-pic .feature-author .fa-text span {
-	font-size: 14px;
+	font-size: 16px;
 	color: #ffffff;
 	font-weight: 600;
 	line-height: 35px;
@@ -959,6 +959,11 @@ ul, ol {
 /*---------------------
   Agent Section
 -----------------------*/
+
+.researchgate {
+	background-image: url("img/favicon/researchgate.png");
+	background-color: #00ccbb;
+}
 
 .agent-section {
 	background: #F2F4F5;
