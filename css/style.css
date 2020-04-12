@@ -89,6 +89,14 @@ ul, ol {
   Helper CSS
 -----------------------*/
 
+.black-link a {
+	color: #000000;
+}
+
+.black-link a:hover {
+	text-decoration: underline;
+}
+
 .section-title {
 	text-align: center;
 	margin-bottom: 65px;
@@ -702,7 +710,7 @@ ul, ol {
 	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	background: #E1481F;
+	background: #f2c413;
 	display: inline-block;
 	padding: 4px 15px;
 	float: left;
@@ -746,6 +754,7 @@ ul, ol {
 .feature-carousel .feature-item .fi-text .inside-text {
 	text-align: center;
 	padding: 26px;
+	height: 210px;
 }
 .feature-carousel .feature-item .fi-text .inside-text h4 {
 	font-size: 22px;
@@ -863,6 +872,12 @@ ul, ol {
 	float: right;
 	margin-top: 32px;
 }
+.top-property-all:hover {
+	color: #ffffff;
+	border: 2px solid #ffffff;
+	background-color: #006eab;
+}
+
 .top-properties-carousel.owl-carousel .owl-nav button[type=button] {
 	width: 26px;
 	height: 60px;
