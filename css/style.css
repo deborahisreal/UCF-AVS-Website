@@ -3111,3 +3111,100 @@ ul, ol {
 .accordion.active:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
+
+.s-text-r {
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #ff3c61;
+	display: inline-block;
+	padding: 4px 15px;
+	float: right;
+	margin-left: 20px;
+}
+
+.s-text-p {
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #d6048e;
+	display: inline-block;
+	padding: 4px 15px;
+	float: right;
+	margin-left: 20px;
+}
+
+.s-text-v {
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #7f138d;
+	display: inline-block;
+	padding: 4px 15px;
+	float: right;
+	margin-left: 20px;
+}
+
+.s-text-br {
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #69304b;
+	display: inline-block;
+	padding: 4px 15px;
+	float: right;
+	margin-left: 20px;
+}
+
+.s-text-b {
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #16246d;
+	display: inline-block;
+	padding: 4px 15px;
+	float: right;
+	margin-left: 20px;
+}
+
+.s-text-t {
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #008088;
+	display: inline-block;
+	padding: 4px 15px;
+	float: right;
+	margin-left: 20px;
+}
+
+.s-text-g {
+	font-size: 10px;
+	color: #ffffff;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: #007042;
+	display: inline-block;
+	padding: 4px 15px;
+	float: right;
+	margin-left: 20px;
+}
+
+.headshot {
+	float: right;
+	display: inline-block;
+	margin: 5px;
+}
