@@ -1,5 +1,3 @@
-"Dang, Atom is sooo awesomesauce. It makes Git and GitHub so easy!"
---Katie
+"YURT"
 
-"I told you!"
---Brian 
+-Debbie
